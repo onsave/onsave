@@ -1,12 +1,26 @@
 #!/usr/bin/env node
 'use strict';
-/*
-const { spawn } = require('child_process');
+const { join } = require('path');
+const onSave = require('./lib/onSave2.js');
+
+//Get File Path
+const filePath = join(__dirname, process.argv[2]);
+
+//Get command
+const usersCommand = process.argv.slice(3);
 
 
-spawn('echo', ['hello world'], {
-  stdio: ['inherit', 'inherit', 'inherit']
-})
-*/
+// set the listener
+onSave(filePath, usersCommand);
 
-console.log('hello');
+
+
+
+
+
+
+
+
+
+
+
