@@ -1,6 +1,6 @@
 {
   "name": "onsave",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0-beta.3",
   "description": "the simplest node.js automation tool",
   "main": "cli.js",
   "scripts": {
