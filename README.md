@@ -28,3 +28,4 @@ now each time you save `yourFile` the command `your command` will be executed.
 If you run into any complications please document what happend, and create a github issue, and consider fixing the bug and sending a pull request! 
 
 
+![on save logo](https://avatars1.githubusercontent.com/u/77583111?s=400&u=91d7e4cbb8f6f5d2712fe26b8082fcea022ad9ec&v=4)
