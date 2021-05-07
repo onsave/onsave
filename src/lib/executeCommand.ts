@@ -6,4 +6,4 @@ function executeCommand(command: string, optionsArray: string[]) {
   });
 }
 
-module.exports = executeCommand;
+export default executeCommand;
