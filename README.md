@@ -6,13 +6,13 @@ install from npm's website
 
 ```
 npm init -y 
-npm install --save onsave
+npm install -D onsave
 ```
 
 install from git hub
 ```
 npm init -y
-npm install --save https://github.com/onsave/onsave.git
+npm install -D https://github.com/onsave/onsave.git
 ```
 
 Choose a command, and choose a file.
