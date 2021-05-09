@@ -13,7 +13,7 @@
   "author": "Andrew Patrick Miller",
   "license": "MIT",
   "bin": {
-    "onsave": "./cli.js"
+    "onsave": "./dist/cli.js"
   },
   "bugs": {
     "url": "https://github.com/onsave/onsave/issues"
